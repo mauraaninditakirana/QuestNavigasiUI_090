@@ -93,7 +93,7 @@ fun FormIsian(
                     modifier = Modifier.fillMaxWidth(1f),
                     onClick = OnSUbmitBtnClick
                 ){
-
+                    Text(stringResource(id = R.string.submit))
                 }
             }
 
