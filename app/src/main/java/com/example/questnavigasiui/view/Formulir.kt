@@ -91,7 +91,7 @@ fun FormIsian(
                 Spacer(modifier = Modifier.height(30.dp))
                 Button(
                     modifier = Modifier.fillMaxWidth(1f),
-                    onClick = OnSUbmitBtnClick
+                    onClick = OnSubmitBtnClick
                 ){
                     Text(stringResource(id = R.string.submit))
                 }
